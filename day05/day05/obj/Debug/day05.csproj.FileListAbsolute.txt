@@ -1,0 +1,6 @@
+C:\Users\DimitrisT\source\repos\day05\day05\bin\Debug\day05.exe.config
+C:\Users\DimitrisT\source\repos\day05\day05\bin\Debug\day05.exe
+C:\Users\DimitrisT\source\repos\day05\day05\bin\Debug\day05.pdb
+C:\Users\DimitrisT\source\repos\day05\day05\obj\Debug\day05.csproj.CoreCompileInputs.cache
+C:\Users\DimitrisT\source\repos\day05\day05\obj\Debug\day05.exe
+C:\Users\DimitrisT\source\repos\day05\day05\obj\Debug\day05.pdb
